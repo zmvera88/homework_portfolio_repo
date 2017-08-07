@@ -5,6 +5,9 @@ img {
 		width:150px;
 		float:; 
 	}
+		body {
+			background-color: yellow;
+		}
 		footer{
 			clear:both; 
 		}
@@ -13,5 +16,10 @@ img {
 		}
 		h1 {
 			margin: 30px;
+			padding:20px;
+			font-family: helvetica;
+			color: blue;
+			display: flex;
+			justify-content: center;
 		}
 		
